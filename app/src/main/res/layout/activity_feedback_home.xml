@@ -38,10 +38,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="83dp"
         android:layout_marginLeft="83dp"
-        android:layout_marginTop="103dp"
+        android:layout_marginTop="104dp"
         android:layout_marginEnd="84dp"
         android:layout_marginRight="84dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view"
         app:srcCompat="@drawable/dureksha1" />
